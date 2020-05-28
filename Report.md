@@ -70,7 +70,7 @@ weight decay | 0
 
 ### Plot of Rewards
 
-The environment was solved in 210 episodes:
+The environment was solved in 586 episodes:
 
 ![Rewards Plot][rewards_plot]
 
